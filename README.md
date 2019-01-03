@@ -43,7 +43,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     14: Hyperapp 1
     15: Crizmas MVC
 -->
-> _Sorted by popularity on Wed Jan 02 2019_
+> _Sorted by popularity on Thu Jan 03 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -107,7 +107,7 @@ Work In Progress:
     26: Ruby & Colmena
     27: Express w/ Bookshelf.js
 -->
-> _Sorted by popularity on Wed Jan 02 2019_
+> _Sorted by popularity on Thu Jan 03 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -166,7 +166,7 @@ Work In Progress:
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Wed Jan 02 2019_
+> _Sorted by popularity on Thu Jan 03 2019_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
